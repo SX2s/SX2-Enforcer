@@ -14,7 +14,7 @@
         <a href="https://discord.gg/7SMM6hgTMy">
             <img src="https://img.shields.io/badge/Support%20Server-Join-5865F2?style=for-the-badge&logo=discord" alt="Support Server">
         </a>
-        <a href="[Link to License, e.g., LICENSE file]">
+        <a href="https://github.com/SX2s/SX2-Enforcer/blob/main/LICENSE">
             <img src="https://img.shields.io/github/license/[YourGitHubUsername]/[YourRepositoryName]?style=for-the-badge" alt="License">
         </a>
     </p>
