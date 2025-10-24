@@ -112,9 +112,9 @@ PREFIX=[YOUR_PREFERRED_PREFIX]
 
   <h2>💻 Built With</h2>
     <ul>
-        <li><a href="">[Programming Language, e.g., Python, JavaScript]</a></li>
-        <li><a href="[">[Discord Library, e.g., discord.js, discord.py]</a></li>
-        <li>[Add other major tools/databases used]</li>
+        <li><a href="">python</a></li>
+        <li><a href="">Discord Library</a></li>
+        <li></li>
     </ul>
 
   <h2>🤝 Contributing</h2>
