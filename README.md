@@ -40,10 +40,10 @@
   <h3>Robust Moderation</h3>
     <p>The bot includes a full suite of moderation features to help maintain a healthy environment:</p>
     <ul>
-        <li><code>[Your Prefix]kick</code>: Remove a member from the server.</li>
-        <li><code>[Your Prefix]ban</code>: Permanently ban a member with a reason.</li>
-        <li><code>[Your Prefix]warn</code>: Issue warnings to users, with a centralized log.</li>
-        <li><code>[Your Prefix]mute</code>: Temporarily silence a user in text and voice channels.</li>
+        <li><code>[!]kick</code>: Remove a member from the server.</li>
+        <li><code>[!]ban</code>: Permanently ban a member with a reason.</li>
+        <li><code>[!]warn</code>: Issue warnings to users, with a centralized log.</li>
+        <li><code>[!]mute</code>: Temporarily silence a user in text and voice channels.</li>
         <li><strong>Smart Moderation</strong>: Kick, ban, warn, mute & log everything automatically.</li>
     </ul>
 
