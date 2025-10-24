@@ -3,24 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SX2 Enforcer - Discord Bot</title>
-    <style>
-        /* Basic styling for better readability on GitHub's rendered view */
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; }
-        h1, h2, h3 { border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
-        code { background-color: rgba(27,31,35,.05); padding: 0.2em 0.4em; border-radius: 3px; }
-        pre code { background-color: transparent; padding: 0; }
-        blockquote { border-left: 0.25em solid #dfe2e5; padding: 0 1em; color: #6a737d; }
-    </style>
 </head>
 <body>
 
   <h1 align="center">SX2 ENFORCER ✨</h1>
     <p align="center">
-        <a href="(https://discord.com/oauth2/authorize?client_id=1421081262176866304&permissions=8&integration_type=0&scope=bot)">
+        <a href="https://discord.com/oauth2/authorize?client_id=1421081262176866304&permissions=8&integration_type=0&scope=bot">
             <img src="https://img.shields.io/badge/Invite%20Bot-Click%20Here-7289DA?style=for-the-badge&logo=discord" alt="Invite Bot">
         </a>
-        <a href="(https://discord.gg/7SMM6hgTMy)">
+        <a href="https://discord.gg/7SMM6hgTMy">
             <img src="https://img.shields.io/badge/Support%20Server-Join-5865F2?style=for-the-badge&logo=discord" alt="Support Server">
         </a>
         <a href="[Link to License, e.g., LICENSE file]">
