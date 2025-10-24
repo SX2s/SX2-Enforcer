@@ -16,7 +16,7 @@
 <body>
 
    <h1 align="center">SX2 ENFORCER ✨</h1>
-    <p align="center">
+   <p align="center">
         <a href="[Link to Invite Your Bot]">
             <img src="https://img.shields.io/badge/Invite%20Bot-Click%20Here-7289DA?style=for-the-badge&logo=discord" alt="Invite Bot">
         </a>
@@ -25,9 +25,9 @@
         </a>
         <a href="[Link to License, e.g., LICENSE file]">
             <img src="https://img.shields.io/github/license/[YourGitHubUsername]/[YourRepositoryName]?style=for-the-badge" alt="License"></a>
-    </p>
-    <h2>🚀 About The Bot</h2>
-        <p>
+</p>
+<h2>🚀 About The Bot</h2>
+  <p>
         <strong>SX2 Enforcer</strong> is a powerful and versatile Discord bot designed to streamline server management and enhance the user experience. Built with a focus on both basic utility and robust moderation, it's the perfect tool to keep your community safe, fun, and organized.
     </p>
 
