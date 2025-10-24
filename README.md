@@ -126,7 +126,7 @@ PREFIX=[YOUR_PREFERRED_PREFIX]
 
 
   <h2>📄 License</h2>
-    <p>Distributed under the <strong>[Your License Type, e.g., MIT] License</strong>. See <code><a href="LICENSE">LICENSE</a></code> for more information.</p>
+    <p>Distributed under the <strong>[MIT] License</strong>. See <code><a href="https://github.com/SX2s/SX2-Enforcer/blob/main/LICENSE">LICENSE</a></code> for more information.</p>
 
  
 
